@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "cust-c945fe",
+    "title": "Getting Started",
+    "url": "https://knowledge.prokeep.com/knowledge/getting-started",
+    "content": "Set yourself up for success. Covers accessing Prokeep, administrator setup, mobile app, system requirements, Growth Hub dashboards, campaign manager, outreach tasks, and contact list segmentation.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-726780",
+    "title": "Inbox",
+    "url": "https://knowledge.prokeep.com/knowledge/inbox",
+    "content": "Managing, navigating and organizing your messages. Covers deleting threads, group switching, picture annotations, search, group texting, tags, quick sends, communication channels (fax, email, webchat, internal messaging, Prokeep Collect), and inbox tabs (inbox, open, closed, thread transfer).",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-bf7329",
+    "title": "Managing Contacts & Companies",
+    "url": "https://knowledge.prokeep.com/knowledge/managing-contacts-companies",
+    "content": "Comprehensive guides for organization and efficiency. Covers deleting contacts, contact import, company information, contact labels, adding contacts from threads, global vs scoped contact lists, welcome messages, updating contact info on thread close, and manager access for labels.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-fac243",
+    "title": "Reporting",
+    "url": "https://knowledge.prokeep.com/knowledge/reporting",
+    "content": "User guides for generating and analyzing reports. Covers reports excel export, dashboards, and reports overview.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d1b37a",
+    "title": "Broadcast Text Messaging",
+    "url": "https://knowledge.prokeep.com/knowledge/broadcast-text-messaging",
+    "content": "How to send mass messages effectively. Covers BTM templates, BTM overview, opt-in rules, sending broadcast messages, boosting business with BTM, BTM reporting, and BTM FAQ.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-351b3c",
+    "title": "Automated Rules",
+    "url": "https://knowledge.prokeep.com/knowledge/automated-rules",
+    "content": "Streamlining tasks with custom workflows. Covers setting up automated rules, rules FAQ, single user routing, and understanding rule interactions.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c0ff54",
+    "title": "Regions",
+    "url": "https://knowledge.prokeep.com/knowledge/regions",
+    "content": "User guides for setup and utilization. Covers regions user group management, regions with data exports, regions setup, and regions FAQ.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-da0d55",
+    "title": "Settings",
+    "url": "https://knowledge.prokeep.com/knowledge/settings",
+    "content": "Articles related to Prokeep functions including messaging and managing contacts. Covers user group assignment, customer feedback surveys, templates, account configuration, profile changes, passwords, preferences, after hours messaging, adding users, editing users, customer import, blocking numbers, recurring reports, white labeling, presence, and auto replies.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-17d03e",
+    "title": "Tips, Tricks, & FAQs",
+    "url": "https://knowledge.prokeep.com/knowledge/tips-tricks-faqs",
+    "content": "Make life easier with tips, tricks, and FAQs. Covers snipping tool, translating messages, changing default browser, and overview training video.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d98be1",
+    "title": "Technical",
+    "url": "https://knowledge.prokeep.com/knowledge/technical",
+    "content": "Compatibility, cookies, browser cache, and more. Covers email setup (redirect for Outlook, M365, Gmail, BCC, Graph API), troubleshooting (cache clearing, incognito mode, error logs, HAR files, notifications), SSO, 10DLC verification and compliance, API and integrations (webhooks, Eclipse, P21, HubSpot, Dynamics 365, Power Automate, DDI, Innovo, Elite EXTRA), and Web Connect.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-a666a2",
+    "title": "Product Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/product-updates",
+    "content": "Learn about new features and enhancements within Prokeep. Release notes from 2024 through March 2026.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-0e7680",
+    "title": "Marketing Materials",
+    "url": "https://knowledge.prokeep.com/knowledge/marketing-materials",
+    "content": "Articles related to increasing customer awareness of texting. Covers marketing material and tactics, and adding a branch number as a contact.",
+    "section": "Category",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-0632fa",
+    "title": "User Roles and Permissions in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/roles-and-permissions-in-prokeep",
+    "content": "Prokeep supports multiple user roles with different access levels. Admin has full access to all settings, billing, user management, and all branches. Manager has branch-level settings, reporting, and user oversight. User has access to messaging, tasks, and contact management. Roles control what each person can see and do within Prokeep.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2c9e11",
+    "title": "Auto-Open Prokeep Upon Startup",
+    "url": "https://knowledge.prokeep.com/knowledge/auto-open-prokeep-upon-startup",
+    "content": "Auto-Open Prokeep Upon Startup. Help article in the Getting Started section of the Prokeep customer knowledge base.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-6e9c22",
+    "title": "Automate Your Prokeep Daily Login with Chrome",
+    "url": "https://knowledge.prokeep.com/knowledge/automate-your-prokeep-daily-login-in-chrome",
+    "content": "Automate Your Prokeep Daily Login with Chrome. Help article in the Getting Started section of the Prokeep customer knowledge base.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-56e4f9",
+    "title": "Automate Your Prokeep Daily Login",
+    "url": "https://knowledge.prokeep.com/knowledge/auto-open-prokeep-upon-startup-windows",
+    "content": "Automate Your Prokeep Daily Login. Help article in the Getting Started section of the Prokeep customer knowledge base.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-8c64ae",
+    "title": "How to Log in to Prokeep without Single Sign-On (SSO)",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-login",
+    "content": "How to log in to Prokeep without Single Sign-On (SSO). Navigate to app.prokeep.com, enter your email and password, and click Sign In. If you forgot your password, use the password reset link. For first-time users, check your email for an invitation link to set up your account.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4cf1b5",
+    "title": "Getting Started - Administrators/Managers",
+    "url": "https://knowledge.prokeep.com/knowledge/getting-started-administrators/managers",
+    "content": "Getting Started - Administrators/Managers. Help article in the Getting Started section of the Prokeep customer knowledge base.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-5e4eea",
+    "title": "Prokeep Mobile App - iOS & Android",
+    "url": "https://knowledge.prokeep.com/knowledge/mobile-app",
+    "content": "The Prokeep mobile app is available for both iOS and Android. It supports core features including messaging, push notifications, contact lookup, and task management. The app syncs with the desktop version in real time. Download from the App Store or Google Play and log in with your existing Prokeep credentials.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-575ac4",
+    "title": "Before Your First Broadcast Text Message: Why BTMs Get Flagged and How to Prevent It",
+    "url": "https://knowledge.prokeep.com/knowledge/before-you-broadcast",
+    "content": "Before Your First Broadcast Text Message: Why BTMs Get Flagged and How to Prevent It. Help article in the Getting Started section of the Prokeep customer knowledge base.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b7398e",
+    "title": "Prokeep: FAQ",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-faq",
+    "content": "Frequently asked questions about Prokeep. Covers common questions about account setup, messaging, notifications, contacts, integrations, billing, and general product functionality.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-6d922e",
+    "title": "Minimum System Requirements and File Type Compatibility when Using Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/compatibility-minimum-requirements",
+    "content": "Minimum system requirements for using Prokeep. Supported browsers: Google Chrome (recommended), Microsoft Edge, Mozilla Firefox. Internet connection required. Desktop notifications require browser permission. Mobile app requires iOS 14+ or Android 8+. File attachments support common formats up to 25MB.",
+    "section": "Getting Started",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b4341a",
+    "title": "Growth Hub Introduction: Dashboards",
+    "url": "https://knowledge.prokeep.com/knowledge/growth-hub-introduction-dashboards",
+    "content": "Growth Hub Dashboards provide analytics for campaign performance and customer engagement. View metrics on outreach tasks, campaign completion rates, customer response rates, and revenue attribution. Filter by campaign, date range, and team member. Requires Growth Hub add-on.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-10f41c",
+    "title": "Growth Hub Campaign Manager",
+    "url": "https://knowledge.prokeep.com/knowledge/growth-hub-campaign-manager",
+    "content": "Growth Hub Campaign Manager lets you plan, execute, and track outreach campaigns. Create campaigns with goals, assign outreach tasks to team members, track completion rates, and measure results. Integrates with contact lists and broadcast messaging for campaign execution.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-3af773",
+    "title": "Outreach Tasks: Managing Tasks in Bulk, Filtering",
+    "url": "https://knowledge.prokeep.com/knowledge/outreach-tasks-managing-tasks-in-bulk-filtering",
+    "content": "Outreach Tasks: Managing Tasks in Bulk, Filtering. Help article in the Getting Started - Growth Hub section of the Prokeep customer knowledge base.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-805c83",
+    "title": "Growth Hub Introduction: Campaign Goals",
+    "url": "https://knowledge.prokeep.com/knowledge/growth-hub-introduction-campaign-goals",
+    "content": "Growth Hub Introduction: Campaign Goals. Help article in the Getting Started - Growth Hub section of the Prokeep customer knowledge base.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-5e5d2f",
+    "title": "Contact List Segmentation and Creation",
+    "url": "https://knowledge.prokeep.com/knowledge/contact-list-segmentation-and-creation",
+    "content": "Contact List Segmentation and Creation in Growth Hub. Build targeted contact lists using filters like purchase history, activity level, labels, and custom fields. Use segments for broadcast messaging, campaign targeting, and outreach task assignment. Save segments for reuse.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-5a6f9c",
+    "title": "Outreach Tasks: Creating a Task",
+    "url": "https://knowledge.prokeep.com/knowledge/outreach-tasks-creating-a-task",
+    "content": "Outreach Tasks: Creating a Task. Help article in the Getting Started - Growth Hub section of the Prokeep customer knowledge base.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ab6574",
+    "title": "Outreach Tasks: Completing a Task",
+    "url": "https://knowledge.prokeep.com/knowledge/outreach-tasks-completing-a-task",
+    "content": "Outreach Tasks: Completing a Task. Help article in the Getting Started - Growth Hub section of the Prokeep customer knowledge base.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-32b742",
+    "title": "Outreach Tasks: Completing Tasks and Closing Threads",
+    "url": "https://knowledge.prokeep.com/knowledge/outreach-tasks-completing-tasks-and-closing-treads",
+    "content": "Outreach Tasks: Completing Tasks and Closing Threads. Help article in the Getting Started - Growth Hub section of the Prokeep customer knowledge base.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-27d9bc",
+    "title": "Outreach Tasks: Completing an Unassigned Task",
+    "url": "https://knowledge.prokeep.com/knowledge/outreach-tasks-completing-an-unassigned-task",
+    "content": "Outreach Tasks: Completing an Unassigned Task. Help article in the Getting Started - Growth Hub section of the Prokeep customer knowledge base.",
+    "section": "Getting Started - Growth Hub",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2e4353",
+    "title": "Deleting Threads in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/deleting-a-message",
+    "content": "How to delete threads in Prokeep. Threads can be deleted by users with the appropriate permissions. Deleted threads are removed from the inbox view. Note that deletion may be restricted based on your organization's data retention policies. Contact your admin if you need deletion access.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-19df6a",
+    "title": "Return to Inbox",
+    "url": "https://knowledge.prokeep.com/knowledge/return-to-inbox",
+    "content": "Return to Inbox. Help article in the Inbox section of the Prokeep customer knowledge base.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4f5cf6",
+    "title": "Switching Between Groups",
+    "url": "https://knowledge.prokeep.com/knowledge/switching-between-groups",
+    "content": "Switching Between Groups. Help article in the Inbox section of the Prokeep customer knowledge base.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-dc4d59",
+    "title": "Picture Annotations",
+    "url": "https://knowledge.prokeep.com/knowledge/picture-annotations",
+    "content": "Picture Annotations. Help article in the Inbox section of the Prokeep customer knowledge base.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4d888f",
+    "title": "Search - Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/search-overview",
+    "content": "Search in Prokeep lets you find conversations by customer name, phone number, or message content. Access search from the top of the inbox. Results show matching threads with preview snippets. Filter results by date range, channel, or assigned user. Works across SMS, email, webchat, and fax conversations.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-21813e",
+    "title": "How to use Group Texting in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/group-texting-in-prokeep",
+    "content": "Group texting in Prokeep allows multi-party SMS conversations. Add multiple recipients to a single thread. All participants see each other's messages. Useful for coordinating between multiple contacts on the same job or order. Create a group text from the compose menu.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-879604",
+    "title": "How to Use Tags in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-use-tags-in-prokeep",
+    "content": "Tags in Prokeep help organize and categorize conversations. Apply tags to threads for easy filtering and retrieval. Create custom tags for your workflow (e.g., Quote Pending, Follow Up, Urgent). Tags are visible to all team members in the branch. Use the tag filter in the inbox to find tagged conversations quickly.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-201abf",
+    "title": "Quick Sends in Prokeep: Automated, Stock, Template, and After-Hours Messages",
+    "url": "https://knowledge.prokeep.com/knowledge/quicksends",
+    "content": "Quick Sends in Prokeep include automated messages, stock messages, templates, and after-hours messages. Automated messages send automatically based on triggers. Stock messages are pre-written responses you can quickly insert. Templates are reusable message formats. After-hours messages auto-respond when the branch is closed. Configure in Settings.",
+    "section": "Inbox",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-7e92b0",
+    "title": "Shared Fax FAQ",
+    "url": "https://knowledge.prokeep.com/knowledge/shared-fax-email",
+    "content": "Shared Fax FAQ. Help article in the Inbox - Communication Channels section of the Prokeep customer knowledge base.",
+    "section": "Inbox - Communication Channels",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-67478c",
+    "title": "Shared Email FAQ",
+    "url": "https://knowledge.prokeep.com/knowledge/shared-email-faq",
+    "content": "Shared Email brings branch email into the same Prokeep platform as texts and webchat. All team members can see and respond to incoming emails. Conversations are threaded with support for attachments, inline images, and formatting. Set up auto-assignment rules to route emails to the right person. Works with email providers that support forwarding or redirect.",
+    "section": "Inbox - Communication Channels",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-1e16e5",
+    "title": "Internal Messaging",
+    "url": "https://knowledge.prokeep.com/knowledge/internal-message",
+    "content": "Internal Messaging in Prokeep allows team members to communicate privately within the platform. Internal messages are not visible to customers. Use for coordinating on customer requests, sharing notes, or asking questions about a thread. Access from within any conversation thread.",
+    "section": "Inbox - Communication Channels",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2d35e1",
+    "title": "Web Chat - Get Started",
+    "url": "https://knowledge.prokeep.com/knowledge/web-chat-get-started",
+    "content": "Add live chat to your website with the Prokeep webchat widget. Go to Settings, then Webchat, copy the embed code, paste into your website HTML. Customize widget color, welcome message, and business hours. Webchat conversations appear in your regular Prokeep inbox alongside SMS and email. Visitors can send messages and upload files without creating an account.",
+    "section": "Inbox - Communication Channels",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-475056",
+    "title": "Prokeep Collect: Get Paid Faster Through Streamlined Collections",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-collect-get-paid-faster-through-streamlined-collections",
+    "content": "Prokeep Collect streamlines payment collection through the messaging platform. Send payment requests directly in conversation threads. Customers can pay through a secure link without needing to call in or visit. Integrates with your existing payment processing. Reduces time spent on collections and improves cash flow.",
+    "section": "Inbox - Communication Channels",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-8a3ab8",
+    "title": "Creating a New, Outbound Text Message",
+    "url": "https://knowledge.prokeep.com/knowledge/starting-a-thread-1",
+    "content": "Creating a New, Outbound Text Message. Help article in the Inbox - Inbox Tabs section of the Prokeep customer knowledge base.",
+    "section": "Inbox - Inbox Tabs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-a46ffa",
+    "title": "Inbox Tab",
+    "url": "https://knowledge.prokeep.com/knowledge/threads-inbox-tab",
+    "content": "Inbox Tab. Help article in the Inbox - Inbox Tabs section of the Prokeep customer knowledge base.",
+    "section": "Inbox - Inbox Tabs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-8616da",
+    "title": "Open Tab",
+    "url": "https://knowledge.prokeep.com/knowledge/threads-open-tab",
+    "content": "Open Tab. Help article in the Inbox - Inbox Tabs section of the Prokeep customer knowledge base.",
+    "section": "Inbox - Inbox Tabs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b72b0e",
+    "title": "Closed Tab",
+    "url": "https://knowledge.prokeep.com/knowledge/threads-closed-tab",
+    "content": "Closed Tab. Help article in the Inbox - Inbox Tabs section of the Prokeep customer knowledge base.",
+    "section": "Inbox - Inbox Tabs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-050c53",
+    "title": "How to Transfer a Thread in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-transfer-a-thread",
+    "content": "How to Transfer a Thread in Prokeep. Help article in the Inbox - Inbox Tabs section of the Prokeep customer knowledge base.",
+    "section": "Inbox - Inbox Tabs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-bfdf56",
+    "title": "Deleting a Contact",
+    "url": "https://knowledge.prokeep.com/knowledge/deleting-a-contact-1",
+    "content": "Deleting a Contact. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-93f3d6",
+    "title": "Manage Contacts - Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/manage-contacts-contact-import-overview",
+    "content": "Manage Contacts overview covers all contact management features. Add contacts manually, import from CSV, or let Prokeep create them from incoming messages. Each contact has a full activity history, labels, notes, and company association. Search, filter, merge duplicates, and export contacts.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c26608",
+    "title": "How to Add/Edit Company Information in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/companies",
+    "content": "How to Add/Edit Company Information in Prokeep. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b787ee",
+    "title": "How to create and assign Contact Labels",
+    "url": "https://knowledge.prokeep.com/knowledge/contact-labels",
+    "content": "Labels help categorize contacts for organization and targeted messaging. Create custom labels in Settings, apply them to contacts, and use them to build broadcast message recipient lists. Labels can be color-coded for quick identification. Multiple labels can be assigned to a single contact. Manager access for labels can be enabled separately.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-14a5f5",
+    "title": "How to Add a New Contact from a Thread",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-add-a-new-contact-from-a-thread",
+    "content": "How to Add a New Contact from a Thread. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-6ada58",
+    "title": "Global vs. Scoped Contact List",
+    "url": "https://knowledge.prokeep.com/knowledge/global-vs.-scoped-contact-list",
+    "content": "Global vs. Scoped Contact List. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-dbefcc",
+    "title": "How to add a contact in the Contact Book and send a Welcome Message",
+    "url": "https://knowledge.prokeep.com/knowledge/adding-a-new-contact",
+    "content": "How to add a contact in the Contact Book and send a Welcome Message. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-77bb0e",
+    "title": "Creating or Updating Contact Information Upon Closing a Thread",
+    "url": "https://knowledge.prokeep.com/knowledge/creating-or-updating-contact-information-upon-closing-a-thread",
+    "content": "Creating or Updating Contact Information Upon Closing a Thread. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ad689f",
+    "title": "How to Enable Manager Access for Contact Labels",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-enable-manager-access-for-contact-labels",
+    "content": "How to Enable Manager Access for Contact Labels. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ac6776",
+    "title": "Sending the Contact Form to Customers",
+    "url": "https://knowledge.prokeep.com/knowledge/sending-the-contact-profile-update-page-to-customers",
+    "content": "Sending the Contact Form to Customers. Help article in the Managing Contacts & Companies section of the Prokeep customer knowledge base.",
+    "section": "Managing Contacts & Companies",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-504612",
+    "title": "Reports Excel Export - Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/reports-excel-export-overview",
+    "content": "Reports Excel Export - Overview. Help article in the Reporting section of the Prokeep customer knowledge base.",
+    "section": "Reporting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b2816a",
+    "title": "Dashboards",
+    "url": "https://knowledge.prokeep.com/knowledge/dashboards",
+    "content": "Prokeep Dashboards provide visual analytics for your account. View message volume trends, response times, active users, and conversation metrics. Dashboards update in real time and can be filtered by branch, date range, and channel. Available to Admin and Manager roles.",
+    "section": "Reporting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-cfa412",
+    "title": "Reports",
+    "url": "https://knowledge.prokeep.com/knowledge/reports",
+    "content": "Prokeep Reports provide detailed data on messaging activity, user performance, and account usage. Generate reports by date range, branch, channel, or user. Export as Excel/CSV. Includes metrics for messages sent/received, response times, thread counts, and CSAT scores.",
+    "section": "Reporting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ff7856",
+    "title": "Broadcast Text Messaging Templates",
+    "url": "https://knowledge.prokeep.com/knowledge/broadcast-text-messaging-templates",
+    "content": "Broadcast Text Messaging Templates. Help article in the Broadcast Text Messaging section of the Prokeep customer knowledge base.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-596098",
+    "title": "Broadcast Text Message Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/broadcasttextmessaging",
+    "content": "Broadcast Text Messaging (BTM) sends mass text messages to multiple recipients simultaneously. Used for promotional messaging, product updates or recalls, operational notifications (store closures, hours changes), event invitations, and targeted delivery notifications. Create broadcasts by clicking the Broadcast icon, selecting promotional or informational type, choosing a broadcast line, naming the message, and selecting recipients from contacts, labels, or CSV import. Contacts who reply NO PROMO opt out of promotional broadcasts but can still receive informational ones.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d1c2b6",
+    "title": "Use Rules to gather Broadcast Messaging Opt Ins",
+    "url": "https://knowledge.prokeep.com/knowledge/use-rules-to-gather-broadcast-messaging-opt-ins",
+    "content": "Use Rules to gather Broadcast Messaging Opt Ins. Help article in the Broadcast Text Messaging section of the Prokeep customer knowledge base.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d1001b",
+    "title": "How to Set Up & Send a Broadcast Message",
+    "url": "https://knowledge.prokeep.com/knowledge/set-up-btm",
+    "content": "Step-by-step guide for setting up and sending a broadcast text message in Prokeep. Log in, click Broadcast icon, click Create A Broadcast, select promotional or informational type, choose the broadcast line/sender, name the broadcast, edit recipients (add from contacts, labels, or CSV), compose your message, and send or schedule.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-345340",
+    "title": "How to use Broadcast Text Messaging to boost business",
+    "url": "https://knowledge.prokeep.com/knowledge/new-draft-btm-overview",
+    "content": "How to use Broadcast Text Messaging to boost business. Help article in the Broadcast Text Messaging section of the Prokeep customer knowledge base.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-04c407",
+    "title": "Broadcast Text Message Reporting",
+    "url": "https://knowledge.prokeep.com/knowledge/btm-reporting",
+    "content": "Broadcast Text Message Reporting shows performance metrics for your broadcasts. View delivery rates, opt-out counts, reply rates, and engagement metrics. Filter by date range, broadcast line, and broadcast type. Export reports for analysis. Use insights to optimize future broadcast campaigns.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-8766cb",
+    "title": "Broadcast Text Messaging - FAQ",
+    "url": "https://knowledge.prokeep.com/knowledge/btm-frequently-asked-questions",
+    "content": "Broadcast Text Messaging FAQ. Covers common questions about BTM: message character limits, scheduling broadcasts, opt-out handling, recipient list management, delivery rates, reporting, promotional vs informational types, and compliance requirements.",
+    "section": "Broadcast Text Messaging",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-16e273",
+    "title": "Setting up Prokeep Automated Rules",
+    "url": "https://knowledge.prokeep.com/knowledge/setting-up-prokeep-rules-1",
+    "content": "Automated Rules in Prokeep streamline tasks with custom workflows. Rules trigger actions based on conditions like incoming message keywords, time of day, or contact properties. Actions include auto-reply, assign to user, add label, close thread, and transfer. Rules can be combined and have priority ordering. Set up in Settings under Automated Rules.",
+    "section": "Automated Rules",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-7cef87",
+    "title": "Automated Rules - FAQ",
+    "url": "https://knowledge.prokeep.com/knowledge/automated-rules-faq",
+    "content": "Automated Rules - FAQ. Help article in the Automated Rules section of the Prokeep customer knowledge base.",
+    "section": "Automated Rules",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-63b94c",
+    "title": "Single User Routing",
+    "url": "https://knowledge.prokeep.com/knowledge/single-user-routing",
+    "content": "Single User Routing. Help article in the Automated Rules section of the Prokeep customer knowledge base.",
+    "section": "Automated Rules",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ceceb9",
+    "title": "Understanding Automated Rule Interactions in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/automated-rules-rules-interactions",
+    "content": "Understanding Automated Rule Interactions in Prokeep. Help article in the Automated Rules section of the Prokeep customer knowledge base.",
+    "section": "Automated Rules",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2218f6",
+    "title": "Regions User Group Management",
+    "url": "https://knowledge.prokeep.com/knowledge/regions-user-group-management",
+    "content": "Regions User Group Management. Help article in the Regions section of the Prokeep customer knowledge base.",
+    "section": "Regions",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-dd4937",
+    "title": "How to Use Regions With Data Exports",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-use-regions-with-data-exports",
+    "content": "How to Use Regions With Data Exports. Help article in the Regions section of the Prokeep customer knowledge base.",
+    "section": "Regions",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-15dcfb",
+    "title": "Regions FAQ",
+    "url": "https://knowledge.prokeep.com/knowledge/regions-faq",
+    "content": "Regions FAQ. Help article in the Regions section of the Prokeep customer knowledge base.",
+    "section": "Regions",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4f2381",
+    "title": "How to assign existing Prokeep users to different groups",
+    "url": "https://knowledge.prokeep.com/knowledge/organization-add-users",
+    "content": "How to assign existing Prokeep users to different groups. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-da4ebf",
+    "title": "Customer Feedback Surveys - Configuration and Mechanics",
+    "url": "https://knowledge.prokeep.com/knowledge/customer-feedback-surveys-configuration-and-mechanics",
+    "content": "Customer feedback surveys in Prokeep measure satisfaction after conversations. Configure survey type (star rating or NPS), trigger timing (automatic after thread close or manual), and customize the question text. Results appear in the reporting dashboard with per-branch and per-rep breakdowns. Use insights to improve service quality.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-50819a",
+    "title": "How to access Templates settings",
+    "url": "https://knowledge.prokeep.com/knowledge/templates",
+    "content": "How to access Templates settings. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-976113",
+    "title": "Account Configuration - Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/account-configuration",
+    "content": "Account Configuration overview covers all organization-level settings in Prokeep. Includes group management, user roles, notification defaults, branding, after-hours settings, auto-reply configuration, and feature toggles. Accessed through the Settings menu by Admin and Manager roles.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ab1c02",
+    "title": "My Account - Changing Profile Information",
+    "url": "https://knowledge.prokeep.com/knowledge/changing-profile-information",
+    "content": "My Account - Changing Profile Information. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-92f5c6",
+    "title": "Changing Your Password",
+    "url": "https://knowledge.prokeep.com/knowledge/changing-your-password",
+    "content": "Changing Your Password. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-dea098",
+    "title": "Password Reset",
+    "url": "https://knowledge.prokeep.com/knowledge/password-reset",
+    "content": "Password Reset. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-859712",
+    "title": "Preferences",
+    "url": "https://knowledge.prokeep.com/knowledge/preferences",
+    "content": "Preferences. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2b2747",
+    "title": "Configuring After Hours & Temporary Hours Messaging",
+    "url": "https://knowledge.prokeep.com/knowledge/after-hours-message-temporary-hours-1",
+    "content": "Configure after-hours and temporary hours messaging in Prokeep. Set your branch operating hours, compose an auto-reply message for messages received outside those hours. Temporary hours override regular hours for holidays or special closures. Customers receive the auto-reply and their message is queued for when the branch reopens.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-5c50a2",
+    "title": "How to Add a New User to Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/adding-a-new-user",
+    "content": "How to add a new user to Prokeep. Navigate to Settings, then Users, click Add User. Enter the new user's name, email, and assign their role (Admin, Manager, or User). Assign them to one or more groups/branches. The new user receives an email invitation to set up their account.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-7ade02",
+    "title": "How to edit Prokeep user information",
+    "url": "https://knowledge.prokeep.com/knowledge/editing-a-user",
+    "content": "How to edit Prokeep user information. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-7e9bc5",
+    "title": "Customer Import - Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/customer-import-overview",
+    "content": "Customer Import - Overview. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-9bfe8d",
+    "title": "How to Block Numbers",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-block-numbers-1",
+    "content": "How to Block Numbers. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-a28c5d",
+    "title": "How to Unblock Numbers",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-unblock-numbers",
+    "content": "How to Unblock Numbers. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-6e3b22",
+    "title": "Recurring Reports",
+    "url": "https://knowledge.prokeep.com/knowledge/recurring-reports",
+    "content": "Recurring Reports automate report delivery on a schedule. Set up daily, weekly, or monthly reports to be emailed to specified recipients automatically. Choose report type, filters, and format. Saves time and ensures stakeholders receive regular performance updates without manual effort.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ce6a54",
+    "title": "White Labeling Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/white-labeling-prokeep",
+    "content": "White Labeling allows you to customize the Prokeep interface with your organization's branding. Replace the Prokeep logo with your own, customize colors, and brand the customer-facing webchat widget. Available for qualifying accounts. Contact your CSM to enable white labeling.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-671855",
+    "title": "Presence",
+    "url": "https://knowledge.prokeep.com/knowledge/presence",
+    "content": "Presence in Prokeep shows whether team members are currently online, away, or offline. Visible to other team members in the user list. Helps with thread assignment and knowing who is available to respond. Status updates automatically based on activity or can be set manually.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-dfbebf",
+    "title": "Managing Auto Replies on Your Account",
+    "url": "https://knowledge.prokeep.com/knowledge/managing-auto-replies-on-your-account",
+    "content": "Managing Auto Replies on Your Account. Help article in the Settings section of the Prokeep customer knowledge base.",
+    "section": "Settings",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-45236b",
+    "title": "Snipping Tool - Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/snipping-tool-overview",
+    "content": "Snipping Tool - Overview. Help article in the Tips, Tricks, & FAQs section of the Prokeep customer knowledge base.",
+    "section": "Tips, Tricks, & FAQs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-224931",
+    "title": "Translating Customer Messages in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/translating-customer-messages-in-prokeep",
+    "content": "Translating Customer Messages in Prokeep. Help article in the Tips, Tricks, & FAQs section of the Prokeep customer knowledge base.",
+    "section": "Tips, Tricks, & FAQs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-7d8e1b",
+    "title": "How to Change Default Browser",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-change-default-browser-google-chrome",
+    "content": "How to Change Default Browser. Help article in the Tips, Tricks, & FAQs section of the Prokeep customer knowledge base.",
+    "section": "Tips, Tricks, & FAQs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4a2af6",
+    "title": "Prokeep Overview Training Video",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-overview-training-video",
+    "content": "Prokeep Overview Training Video. Help article in the Tips, Tricks, & FAQs section of the Prokeep customer knowledge base.",
+    "section": "Tips, Tricks, & FAQs",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b0bdc8",
+    "title": "Prokeep System Reliability and Monitoring",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-system-reliability-and-monitoring-1",
+    "content": "Prokeep System Reliability and Monitoring. Help article in the Technical section of the Prokeep customer knowledge base.",
+    "section": "Technical",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-e7d827",
+    "title": "Prophet 21 (P21) Contact Sync Setup for Order Automation",
+    "url": "https://knowledge.prokeep.com/knowledge/prophet-21-p21-contact-sync-setup-for-order-automation",
+    "content": "Prophet 21 (P21) Contact Sync Setup for Order Automation. Help article in the Technical section of the Prokeep customer knowledge base.",
+    "section": "Technical",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4e77eb",
+    "title": "Shared Email - Email Redirect Setup Instructions - Others",
+    "url": "https://knowledge.prokeep.com/knowledge/email-redirect-setup-instructions-others",
+    "content": "Shared Email - Email Redirect Setup Instructions - Others. Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-012718",
+    "title": "Shared Email - Email Redirect Setup Instructions for Microsoft Outlook (Non-365)",
+    "url": "https://knowledge.prokeep.com/knowledge/email-redirect-setup-instructions-non-365",
+    "content": "Shared Email - Email Redirect Setup Instructions for Microsoft Outlook (Non-365). Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2250f1",
+    "title": "Shared Email - Email Redirect Setup Instructions for Microsoft 365",
+    "url": "https://knowledge.prokeep.com/knowledge/email-redirect-setup-instructions-microsoft-365",
+    "content": "Shared Email - Email Redirect Setup Instructions for Microsoft 365. Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4fa6ff",
+    "title": "Shared Email - Email Redirect Setup Instructions for Gmail",
+    "url": "https://knowledge.prokeep.com/knowledge/email-redirect-setup-instructions-gmail",
+    "content": "Shared Email - Email Redirect Setup Instructions for Gmail. Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-a04747",
+    "title": "Microsoft O365 Rule to Deliver BCC Emails to Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/bccs-in-prokeep-for-microsoft-o365",
+    "content": "Microsoft O365 Rule to Deliver BCC Emails to Prokeep. Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-15a55e",
+    "title": "How to Use Prokeep Email",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-use-prokeep-email",
+    "content": "How to Use Prokeep Email. Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-29a6ba",
+    "title": "Shared Email and Access Groups: Microsoft Graph API Setup Process",
+    "url": "https://knowledge.prokeep.com/knowledge/shared-email-and-access-groups-customers",
+    "content": "Shared Email and Access Groups: Microsoft Graph API Setup Process. Help article in the Technical - Email Set-Up section of the Prokeep customer knowledge base.",
+    "section": "Technical - Email Set-Up",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-8131d8",
+    "title": "How to Clear Cache and Cookies - Mozilla Firefox",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-clear-cache-and-cookies-mozilla-firefox",
+    "content": "How to Clear Cache and Cookies - Mozilla Firefox. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c68845",
+    "title": "How to Use Incognito Mode in Google Chrome for Troubleshooting",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-use-incognito-mode-in-google-chrome-for-troubleshooting",
+    "content": "How to Use Incognito Mode in Google Chrome for Troubleshooting. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-0b3a4b",
+    "title": "How to Use InPrivate Mode in Microsoft Edge for Troubleshooting",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-use-inprivate-mode-in-microsoft-edge-for-troubleshooting",
+    "content": "How to Use InPrivate Mode in Microsoft Edge for Troubleshooting. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2b2ce3",
+    "title": "How to Use Private Browsing Mode in Mozilla Firefox for Troubleshooting",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-use-private-browsing-mode-in-mozilla-firefox-for-troubleshooting",
+    "content": "How to Use Private Browsing Mode in Mozilla Firefox for Troubleshooting. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-5278b9",
+    "title": "Capturing Error Logs - Google Chrome",
+    "url": "https://knowledge.prokeep.com/knowledge/capturing-error-logs-google-chrome",
+    "content": "Capturing Error Logs - Google Chrome. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-433eba",
+    "title": "Capturing Error Logs - Microsoft Edge",
+    "url": "https://knowledge.prokeep.com/knowledge/capturing-error-logs-microsoft-edge",
+    "content": "Capturing Error Logs - Microsoft Edge. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-55d457",
+    "title": "Capturing Error Logs - Mozilla Firefox",
+    "url": "https://knowledge.prokeep.com/knowledge/capturing-error-logs-mozilla-firefox",
+    "content": "Capturing Error Logs - Mozilla Firefox. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4aea7d",
+    "title": "How to Gather HAR Files and Console Error Logs in Google Chrome",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-gather-har-files-and-console-error-logs-in-google-chrome",
+    "content": "How to Gather HAR Files and Console Error Logs in Google Chrome. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-40a4cc",
+    "title": "How to Enable Prokeep Notifications - Google Chrome",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-enable-prokeep-notifications-google-chrome-1",
+    "content": "How to Enable Prokeep Notifications - Google Chrome. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-fbf819",
+    "title": "How to Enable Prokeep Notifications - Microsoft Edge",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-enable-prokeep-notifications-microsoft-edge",
+    "content": "How to Enable Prokeep Notifications - Microsoft Edge. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-74581c",
+    "title": "How to Enable Prokeep Notifications - Mozilla Firefox",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-enable-prokeep-notifications-mozilla-firefox",
+    "content": "How to Enable Prokeep Notifications - Mozilla Firefox. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-695368",
+    "title": "How to Enable Windows Notifications",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-enable-windows-notifications",
+    "content": "How to Enable Windows Notifications. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c86af9",
+    "title": "How to Clear Cache and Cookies - Google Chrome",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-clear-your-browser-cache-and-cookies-google-chrome",
+    "content": "How to Clear Cache and Cookies - Google Chrome. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d7ba1a",
+    "title": "How to Clear Cache and Cookies - Microsoft Edge",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-clear-cache-and-cookies-microsoft-edge",
+    "content": "How to Clear Cache and Cookies - Microsoft Edge. Help article in the Technical - Troubleshooting section of the Prokeep customer knowledge base.",
+    "section": "Technical - Troubleshooting",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-ca3980",
+    "title": "Single Sign-On (SSO) User Authentication in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/single-sign-on-sso-user-authentication-in-prokeep",
+    "content": "Single Sign-On (SSO) enables users to log into Prokeep using their organization's identity provider. Supports SAML 2.0 protocol. SSO simplifies login, improves security, and allows centralized user management. Setup requires coordination between your IT team and Prokeep support.",
+    "section": "Technical - Single Sign-On",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-63b8be",
+    "title": "Just In Time Single Sign-On (JIT SSO) User Provisioning",
+    "url": "https://knowledge.prokeep.com/knowledge/just-in-time-sso-user-provisioning",
+    "content": "Just In Time Single Sign-On (JIT SSO) User Provisioning. Help article in the Technical - Single Sign-On section of the Prokeep customer knowledge base.",
+    "section": "Technical - Single Sign-On",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-adc8d8",
+    "title": "10-Digit Long Code (10DLC) Verification",
+    "url": "https://knowledge.prokeep.com/knowledge/10dlc",
+    "content": "10-Digit Long Code (10DLC) verification is required for business SMS messaging. 10DLC is the industry standard for Application-to-Person (A2P) messaging. Registration involves brand verification and campaign registration through The Campaign Registry (TCR). Higher trust scores yield better message throughput. Required for all Prokeep SMS sending.",
+    "section": "Technical - 10DLC",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-394102",
+    "title": "Steps to Take Before Changing Phone Providers",
+    "url": "https://knowledge.prokeep.com/knowledge/number-porting",
+    "content": "Steps to take before changing phone providers to ensure your Prokeep SMS service is not interrupted. Coordinate with Prokeep support before porting numbers. Provide advance notice, verify number ownership, and understand the timeline. Porting without coordination can cause message delivery failures.",
+    "section": "Technical - 10DLC",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-1b0bad",
+    "title": "How to Prevent Your Number from Being Blocked",
+    "url": "https://knowledge.prokeep.com/knowledge/how-to-prevent-your-number-from-being-blocked",
+    "content": "How to Prevent Your Number from Being Blocked. Help article in the Technical - 10DLC section of the Prokeep customer knowledge base.",
+    "section": "Technical - 10DLC",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-81f495",
+    "title": "Mandatory 10DLC Industry Regulations Compliance",
+    "url": "https://knowledge.prokeep.com/knowledge/10dlc-industry-regulations-compliance",
+    "content": "Mandatory 10DLC Industry Regulations Compliance. Help article in the Technical - 10DLC section of the Prokeep customer knowledge base.",
+    "section": "Technical - 10DLC",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c5ebc3",
+    "title": "SMS Sender Types in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/sms-sender-types-in-prokeep",
+    "content": "SMS Sender Types in Prokeep. Help article in the Technical - 10DLC section of the Prokeep customer knowledge base.",
+    "section": "Technical - 10DLC",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4efebc",
+    "title": "Understanding SMS Compliance: Why It Matters for Your Business",
+    "url": "https://knowledge.prokeep.com/knowledge/understanding-sms-compliance-why-it-matters-for-your-business",
+    "content": "Understanding SMS Compliance: Why It Matters for Your Business. Help article in the Technical - 10DLC section of the Prokeep customer knowledge base.",
+    "section": "Technical - 10DLC",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-5a08e5",
+    "title": "Prokeep API",
+    "url": "https://knowledge.prokeep.com/knowledge/api",
+    "content": "The Prokeep API allows integration with external systems. Use it to send messages, manage contacts, retrieve conversations, and automate workflows programmatically. API keys are created in Prokeep Settings. Documentation covers endpoints, authentication, rate limits, and example requests. Supports webhooks for real-time event notifications.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4e23de",
+    "title": "Prokeep Webhooks: Connect Your Data in Real Time",
+    "url": "https://knowledge.prokeep.com/knowledge/webhooks-overview-examples",
+    "content": "Prokeep Webhooks send real-time event notifications to external systems. Configure webhook endpoints to receive notifications for new messages, thread status changes, contact updates, and more. Use webhooks to build custom integrations, trigger workflows, and sync data with other platforms.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c183d9",
+    "title": "ParcelPending Lockers - Automated SMS Notifications",
+    "url": "https://knowledge.prokeep.com/knowledge/parcelpending-lockers-automated-sms-notifications",
+    "content": "ParcelPending Lockers - Automated SMS Notifications. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-728cc6",
+    "title": "Prokeep Integration Use Cases",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-integration-overview",
+    "content": "Prokeep Integration Use Cases. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-0a5ee8",
+    "title": "Prokeep Integration Options",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-integration-options",
+    "content": "Prokeep Integration Options. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-f0c13f",
+    "title": "Apex Lockers - Automated SMS Notifications",
+    "url": "https://knowledge.prokeep.com/knowledge/apex-lockers-and-prokeep",
+    "content": "Apex Lockers - Automated SMS Notifications. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d14d13",
+    "title": "Prokeep DDI Order Notification Integration Guide",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-ddi-order-notification-integration-guide",
+    "content": "Prokeep DDI Order Notification Integration Guide. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-0b5eec",
+    "title": "Eclipse Contact Sync Integration Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/eclipse-contact-sync",
+    "content": "Eclipse Contact Sync integrates Epicor Eclipse ERP with Prokeep's contact management. Automatically syncs customer records between systems, keeping contact information up to date. Reduces manual data entry and ensures consistency across platforms. Setup requires Eclipse API credentials and configuration in Prokeep admin.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4ddaab",
+    "title": "Eclipse SMS Notifications - Integration Setup Guide",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-eclipse-sms-integration-setup-instructions",
+    "content": "Eclipse SMS Notifications - Integration Setup Guide. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4e0f24",
+    "title": "HubSpot Contact Sync Integration Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/hubspot-contact-sync-integration-overview",
+    "content": "HubSpot Contact Sync Integration Overview. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-d763bc",
+    "title": "Prokeep Innovo SMS Integration Setup Instructions",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-innovo-sms-integration-setup-instructions",
+    "content": "Prokeep Innovo SMS Integration Setup Instructions. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4a5e15",
+    "title": "Microsoft Dynamics 365 Integration with Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-microsoft-dynamics365-integration",
+    "content": "Microsoft Dynamics 365 Integration with Prokeep. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-312676",
+    "title": "Prophet 21 (P21) Contact Sync Integration Overview",
+    "url": "https://knowledge.prokeep.com/knowledge/prophet-21-contact-sync-integration-overview",
+    "content": "Prophet 21 (P21) Contact Sync integration automatically syncs customer contact data between Epicor Prophet 21 ERP and Prokeep. Keeps customer records consistent across both systems. Reduces duplicate entry and ensures your team always has current contact information when messaging customers.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-c2bea1",
+    "title": "How do I create an API key in Prokeep",
+    "url": "https://knowledge.prokeep.com/knowledge/create-an-api-key-in-prokeep",
+    "content": "How do I create an API key in Prokeep. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-e831f8",
+    "title": "Prokeep Power Automate Connector Guide",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-power-automate-connector-guide",
+    "content": "Prokeep Power Automate Connector Guide. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-e92099",
+    "title": "Using Multi-Account API Tokens to Integrate Multiple Prokeep Accounts with a Single Endpoint",
+    "url": "https://knowledge.prokeep.com/knowledge/multi-account-api-token-integration",
+    "content": "Using Multi-Account API Tokens to Integrate Multiple Prokeep Accounts with a Single Endpoint. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-49e7b8",
+    "title": "Prokeep + Epicor Elite EXTRA Order Notification Integration",
+    "url": "https://knowledge.prokeep.com/knowledge/elite-extra-order-notification-integration",
+    "content": "Prokeep + Epicor Elite EXTRA Order Notification Integration. Help article in the Technical - API & Integrations section of the Prokeep customer knowledge base.",
+    "section": "Technical - API & Integrations",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-6e349c",
+    "title": "Web Connect",
+    "url": "https://knowledge.prokeep.com/knowledge/web-connect-overview",
+    "content": "Web Connect enables website visitors to start conversations with your branch directly from your website. Different from webchat in that it creates a persistent SMS connection. Visitor enters their phone number, sends a message, and the conversation continues via text. Setup involves adding a widget to your website.",
+    "section": "Technical - Web Connect",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-75a3ee",
+    "title": "Prokeep Release Summary - 2025",
+    "url": "https://knowledge.prokeep.com/knowledge/prokeep-release-summary-2025",
+    "content": "Prokeep Release Summary - 2025. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-a7049b",
+    "title": "3/24/2026 Release Update",
+    "url": "https://knowledge.prokeep.com/knowledge/3/24/2026-release-updates",
+    "content": "3/24/2026 Release Update. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-07f454",
+    "title": "3/19/2026 Release Update",
+    "url": "https://knowledge.prokeep.com/knowledge/3/19/2026",
+    "content": "3/19/2026 Release Update. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-e76bc1",
+    "title": "3/18/2026 Release Update",
+    "url": "https://knowledge.prokeep.com/knowledge/3/18/2026-release-updates",
+    "content": "3/18/2026 Release Update. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-af3e53",
+    "title": "3/10/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/3/10/2026-release-updates",
+    "content": "3/10/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-6bd7d1",
+    "title": "3/5/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/25/2026-release-updates-0",
+    "content": "3/5/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-66114a",
+    "title": "2/25/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/25/2026-release-updates",
+    "content": "2/25/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-324109",
+    "title": "2/18/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/18/2026-release-updates",
+    "content": "2/18/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-692577",
+    "title": "2/11/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/11/2026-release-updates",
+    "content": "2/11/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-0eb21b",
+    "title": "2/9/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/9/2026-release-updates",
+    "content": "2/9/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2af2ee",
+    "title": "2/2/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/2/2026-release-updates",
+    "content": "2/2/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-b0e91a",
+    "title": "1/23/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/1/23/2026-release-updates",
+    "content": "1/23/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4aa464",
+    "title": "1/16/2026 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/1/16/2026-release-updates",
+    "content": "1/16/2026 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-2412db",
+    "title": "12/17/2024 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/12/17/2024-release-updates",
+    "content": "12/17/2024 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-640e7c",
+    "title": "11/19/2024 - Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/11/19/2024-release-updates",
+    "content": "11/19/2024 - Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-da8dc4",
+    "title": "11/4/2024 - Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/release-11-19-2024",
+    "content": "11/4/2024 - Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-81b3e2",
+    "title": "1/28/2025 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/1/28/2025-release-updates",
+    "content": "1/28/2025 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-add3ec",
+    "title": "2/11/2025 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/11/2025-release-4.00-updates",
+    "content": "2/11/2025 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-f345fa",
+    "title": "1/14/2025 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/1/14/2025-release-updates",
+    "content": "1/14/2025 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-490411",
+    "title": "2/27/24 Release Updates",
+    "url": "https://knowledge.prokeep.com/knowledge/2/27/24-release-updates",
+    "content": "2/27/24 Release Updates. Help article in the Product Updates section of the Prokeep customer knowledge base.",
+    "section": "Product Updates",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-fcca3b",
+    "title": "Marketing Material & Tactics",
+    "url": "https://knowledge.prokeep.com/knowledge/marketing-material-tactics",
+    "content": "Marketing Material & Tactics. Help article in the Marketing Materials section of the Prokeep customer knowledge base.",
+    "section": "Marketing Materials",
+    "lastUpdated": "2026-03-30"
+  },
+  {
+    "id": "cust-4c9626",
+    "title": "Adding a Branch Number as a Contact",
+    "url": "https://knowledge.prokeep.com/knowledge/adding-a-branch-as-an-iphone-contact",
+    "content": "Adding a Branch Number as a Contact. Help article in the Marketing Materials section of the Prokeep customer knowledge base.",
+    "section": "Marketing Materials",
+    "lastUpdated": "2026-03-30"
+  }
+]

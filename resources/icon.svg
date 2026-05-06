@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background: deep navy -->
+  <rect width="1024" height="1024" rx="220" fill="#0D1B2A"/>
+
+  <!-- Subtle grid lines for depth -->
+  <line x1="0" y1="512" x2="1024" y2="512" stroke="#1A2E42" stroke-width="1.5"/>
+  <line x1="512" y1="0" x2="512" y2="1024" stroke="#1A2E42" stroke-width="1.5"/>
+
+  <!-- Outer teal ring -->
+  <circle cx="512" cy="512" r="340" fill="none" stroke="#56B7A3" stroke-width="28" opacity="0.35"/>
+
+  <!-- Inner accent ring -->
+  <circle cx="512" cy="512" r="270" fill="none" stroke="#56B7A3" stroke-width="10" opacity="0.18"/>
+
+  <!-- "C" letterform — bold, teal, CSM Copilot reference -->
+  <path
+    d="M 640 340
+       A 210 210 0 1 0 640 684
+       L 608 652
+       A 170 170 0 1 1 608 372
+       Z"
+    fill="#56B7A3"
+  />
+
+  <!-- Teal dot accent — top-right of C opening -->
+  <circle cx="648" cy="308" r="30" fill="#F4B74E"/>
+
+  <!-- Gold horizontal bar — "data line" motif -->
+  <rect x="290" y="500" width="200" height="24" rx="12" fill="#F4B74E" opacity="0.85"/>
+  <rect x="290" y="544" width="140" height="16" rx="8" fill="#F4B74E" opacity="0.45"/>
+
+</svg>

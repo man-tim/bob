@@ -1,0 +1,108 @@
+appId: com.prokeep.bob
+# IMPORTANT: electron-builder strips trailing periods from helper directory names on macOS.
+# CFBundleName in Info.plist keeps "B.O.B." but Electron's helper lookup uses the
+# filesystem name (without trailing period). Keep productName as "B.O.B" to match.
+productName: B.O.B
+copyright: Copyright © 2024 Prokeep
+
+# ─── Output ────────────────────────────────────────────────────────────────────
+directories:
+  buildResources: resources
+  output: dist
+
+# ─── What goes in the package ──────────────────────────────────────────────────
+files:
+  - out/**/*
+  - package.json
+
+# Unpack native .node binaries so they can be loaded outside the asar archive.
+# CRITICAL: better-sqlite3 will crash at startup without this.
+asar: true
+asarUnpack:
+  - "**/*.node"
+  - "**/better-sqlite3/**"
+  - "**/node-llama-cpp/**"
+  - "**/@node-llama-cpp/**"
+
+# Resources bundled alongside app.asar (data files, entitlements, icons)
+extraResources:
+  - from: resources/
+    to: resources/
+    filter:
+      - "**/*"
+      - "!icon.svg"     # SVG source not needed at runtime
+
+# ─── Performance ───────────────────────────────────────────────────────────────
+compression: maximum
+removePackageScripts: true
+
+# ─── After-signing hook ────────────────────────────────────────────────────────
+# Re-signs helpers with correct bundle IDs + strips iCloud/quarantine xattrs so
+# the app opens cleanly on team members' Macs without the "damaged" Gatekeeper error.
+afterSign: scripts/afterSign.js
+
+# ─── macOS ─────────────────────────────────────────────────────────────────────
+mac:
+  category: public.app-category.business
+  hardenedRuntime: false
+  gatekeeperAssess: false
+  darkModeSupport: true
+  minimumSystemVersion: "12.0"
+  icon: resources/icon.icns
+  identity: null
+  target:
+    - target: dmg
+      arch:
+        - arm64
+    - target: zip
+      arch:
+        - arm64
+
+dmg:
+  title: "B.O.B. ${version}"
+  icon: resources/icon.icns
+  background: null
+  contents:
+    - x: 130
+      y: 220
+    - x: 410
+      y: 220
+      type: link
+      path: /Applications
+  window:
+    width: 540
+    height: 380
+
+# ─── Windows ───────────────────────────────────────────────────────────────────
+win:
+  icon: resources/icon.ico
+  target:
+    - target: nsis
+      arch:
+        - x64
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+
+# ─── Linux ─────────────────────────────────────────────────────────────────────
+linux:
+  icon: resources/icon.png
+  target: AppImage
+  category: Office
+
+# ─── Publishing ────────────────────────────────────────────────────────────────
+# Auto-update via GitHub Releases (electron-updater).
+# To enable: set GH_TOKEN env var, then run: npm run package:mac -- -p always
+# To disable publishing during a normal build: npm run package:mac (no -p flag)
+publish:
+  provider: github
+  owner: man-tim       # ← replace with your GitHub org or username
+  repo: bob        # ← replace with the GitHub repo name
+  releaseType: release         # publish as a full release (not draft/prerelease)
+  # token is read from GH_TOKEN environment variable at publish time
+
+# Rebuild native modules for the packaged Electron version
+npmRebuild: true

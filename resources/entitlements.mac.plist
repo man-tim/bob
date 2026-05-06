@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+
+    <!-- Allow V8 JIT compilation (required by Electron / Chromium) -->
+    <key>com.apple.security.cs.allow-jit</key>
+    <true/>
+
+    <!-- Allow unsigned executable memory pages (needed by some Electron internals) -->
+    <key>com.apple.security.cs.allow-unsigned-executable-memory</key>
+    <true/>
+
+    <!-- Allow DYLD environment variables (needed for native Node modules) -->
+    <key>com.apple.security.cs.allow-dyld-environment-variables</key>
+    <true/>
+
+    <!-- Disable library validation so bundled .node binaries can load -->
+    <key>com.apple.security.cs.disable-library-validation</key>
+    <true/>
+
+    <!-- Outbound network access (Google OAuth, Gong API, HubSpot API) -->
+    <key>com.apple.security.network.client</key>
+    <true/>
+
+    <!-- File access for user-selected files (CSV imports, exports) -->
+    <key>com.apple.security.files.user-selected.read-write</key>
+    <true/>
+
+    <!-- Downloads folder access for generated PDFs / exported files -->
+    <key>com.apple.security.files.downloads.read-write</key>
+    <true/>
+
+  </dict>
+</plist>
